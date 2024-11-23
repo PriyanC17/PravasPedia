@@ -37,9 +37,9 @@ To run the PravasPedia project locally, follow these steps:
     - Create a `.env` file in the root directory.
 
 4. **Start the development server**:
-    ```npm start ```
+    ```python manage.py run server ```
 5. **Open the application**:
-    Open your web browser and navigate to `http://localhost:3000` to view PravasPedia.
+    Open your web browser and navigate to `[http://localhost:3000]/(http://127.0.0.1:8000/)` to view PravasPedia.
 
 ## Contributing
 Contributions to PravasPedia are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue on GitHub.
