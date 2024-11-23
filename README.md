@@ -1,6 +1,6 @@
 # प्रवासPedia
 
-PravasPedia is a web application built on the dJango framework combining HTML, CSS, JS for frontend development. It serves as a guide for travelers to explore hidden places, uncover untold stories, and plan personalized travel itineraries for 2 or 3 days.
+PravasPedia is a web application built on the Django framework combining HTML, CSS, JS for frontend development. It serves as a guide for travelers to explore hidden places, uncover untold stories, and plan personalized travel itineraries for 2 or 3 days.
 
 ![image](https://github.com/user-attachments/assets/af1c40f1-c518-49ae-b860-60402088ef39)
 
