@@ -21,15 +21,13 @@ PravasPedia is a web application built on the Django framework combining HTML, C
 - **Database**: SQLite
 
 
-- **Deployment**: [Platform Name] (e.g., Heroku, AWS, etc.)
-
 ## Getting Started
 
 To run the PravasPedia project locally, follow these steps:
 
 1. **Clone the repository**:
 ```
-    git clone https://github.com/Kashish-Savaliya/pravasPedia.git
+    git clone https://github.com/PriyanC17/PravasPedia.git
 ```
 2. **Install dependencies**:
 ``` cd pravasPedia
@@ -37,24 +35,14 @@ To run the PravasPedia project locally, follow these steps:
 ```
 3. **Set up environment variables**:
     - Create a `.env` file in the root directory.
-    - Add environment variables for MongoDB connection URI, API keys (if any), etc.
 
 4. **Start the development server**:
     ```npm start ```
 5. **Open the application**:
     Open your web browser and navigate to `http://localhost:3000` to view PravasPedia.
 
-## Folder Structure
-pravasPedia/
-
-├── client/ # Frontend React application
-
-├── server/ # Backend Node.js application
-
-└── README.md
-
 ## Contributing
 Contributions to PravasPedia are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue on GitHub.
 
 ## Contact
-For inquiries or support regarding PravasPedia, please contact [Name] at [Email Address].
+For inquiries or support regarding PravasPedia, please contact Team PravasPedia at pravaspedia@gmail.com.
